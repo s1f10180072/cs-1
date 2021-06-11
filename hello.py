@@ -1,3 +1,3 @@
 def hello(n):
-    a = n * "hello world"
+    a = n * "hello new world"
     return a
